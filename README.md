@@ -1,7 +1,8 @@
 ## Olá, Seja bem-vindo! Eu sou o Erick Monteiro 👋  
 
 - 🎓 Técnico em **Desenvolvimento de Sistemas** pela **Escola Técnica Estadual Porto Digital**  
-- 🌍 **Graduando em Ciência da Computação** pela **Jala University**  
+- 🌍 **Graduando em Ciência da Computação** pela **Jala University** 
+- 📦 Atualmente migrando meus projetos privados do **GitLab** para o **GitHub**   
 - 🤖 Apaixonado por **Dados** e **IoT**  
 - ☁️ Experiência em Modelagem de dados e hospedagem na **Cloud (AWS)**  
 - 📚 Programo desde os **13 anos**
@@ -22,3 +23,5 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+## 🧑🏻‍💻 Novidades em breve
