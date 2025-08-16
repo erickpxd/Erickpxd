@@ -1,4 +1,4 @@
-## Olá, Seja bem-vindo! Eu sou o Erick Monteiro 👋  
+## Olá, tudo bem? Eu sou o Erick Monteiro 👍🏻
 
 - 🎓 Técnico em **Desenvolvimento de Sistemas** pela **Escola Técnica Estadual Porto Digital**  
 - 🌍 **Graduando em Ciência da Computação** pela **Jala University** 
