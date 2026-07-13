@@ -58,32 +58,71 @@ Location:   Recife, Pernambuco, Brazil
 
 ---
 
-## **Experiência Acadêmica**
+## Experiência Acadêmica
 
 <img align="left" height="64px" width="64px" alt="Jala University" src="assets/Jala.png"/>
 
 **Engenharia de Software** \
 **Jala University** • Graduação \
 `Fundamentos da Computação`, `Engenharia de Software`, `Desenvolvimento de Sistemas`, `Inteligência Artificial`. \
-<br/>
+<br clear="left"/>
 
-<img align="left" height="64px" width="64px" alt="ETE Porto Digital" src="assets/Etepd.png"/>
+[<img align="left" height="64px" width="64px" alt="ETE Porto Digital" src="assets/Etepd.png"/>](https://www.linkedin.com/in/ete-porto-digital-0645021a2/)
 
 **Técnico em Desenvolvimento de Sistemas** \
-**ETE Porto Digital** • Curso técnico \
+[**ETE Porto Digital**](https://www.linkedin.com/in/ete-porto-digital-0645021a2/) • Curso técnico \
 `Lógica de Programação`, `Desenvolvimento Web`, `Banco de Dados`, `Sistemas`. \
-<br/>
+<br clear="left"/>
 
-<img align="left" height="64px" width="64px" alt="Aponti" src="assets/aponti.png"/>
+[<img align="left" height="64px" width="64px" alt="Aponti" src="assets/aponti.png"/>](https://www.linkedin.com/company/apontipe/)
 
 **Frontend React** \
-**Aponti** • Curso técnico \
+[**Aponti**](https://www.linkedin.com/company/apontipe/) • Curso técnico \
 `React`, `Componentização`, `Consumo de APIs`, `Interfaces Web`. \
-<br/>
+<br clear="left"/>
 
-<img align="left" height="64px" width="64px" alt="CESAR School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>
+[<img align="left" height="64px" width="64px" alt="CESAR School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.linkedin.com/school/cesarschool/)
 
 **CESAR Fast Frontend** \
-**CESAR School** • Curso técnico \
+[**CESAR School**](https://www.linkedin.com/school/cesarschool/) • Curso técnico \
 `Frontend`, `JavaScript`, `React`, `Boas práticas de desenvolvimento`. \
-<br/>
+<br clear="left"/>
+
+---
+
+## Experiência Profissional
+
+[<img align="left" height="64px" width="64px" alt="Aponti" src="assets/aponti.png"/>](https://www.linkedin.com/company/apontipe/)
+
+**Residente Tecnológico Frontend (03/2026 - Atual)** \
+[**Aponti**](https://www.linkedin.com/company/apontipe/) • Frontend \
+`React`, `Angular`, `APIs REST`, `Arquitetura`, `DevOps`, `Metodologias Ágeis`. \
+<br clear="left"/>
+
+[<img align="left" height="64px" width="64px" alt="Assessoria PH" src="assets/Acessoriaph.png"/>](https://www.instagram.com/agencia_ph/)
+
+**Equipe de TI (06/2022 - 12/2025)** \
+[**Assessoria PH**](https://www.instagram.com/agencia_ph/) • Tecnologia \
+`WordPress`, `Low-Code`, `Infraestrutura de Rede`, `Eventos`, `Liderança de TI`. \
+<br clear="left"/>
+
+[<img align="left" height="64px" width="64px" alt="Inove Gráfica" src="assets/inove.png"/>](https://www.instagram.com/inovegrafica2/)
+
+**Designer Gráfico (11/2025 - 01/2026)** \
+[**Inove Gráfica**](https://www.instagram.com/inovegrafica2/) • Design \
+`Design Gráfico`, `Identidade Visual`, `Materiais Digitais`, `Produção Criativa`. \
+<br clear="left"/>
+
+[<img align="left" height="64px" width="64px" alt="Cubho Digital" src="assets/cubho%20digital.png"/>](https://www.instagram.com/cubho_digital/)
+
+**Designer Gráfico e Gestão WordPress (09/2025 - 11/2025)** \
+[**Cubho Digital**](https://www.instagram.com/cubho_digital/) • Design e Web \
+`Design Gráfico`, `WordPress`, `Gestão de Conteúdo`, `Landing Pages`. \
+<br clear="left"/>
+
+[<img align="left" height="64px" width="64px" alt="Dental Facetas" src="assets/DentalFacetas.png"/>](https://www.instagram.com/dentalfacetas/)
+
+**Designer Gráfico e Desenvolvimento de Saas (08/2023 - 01/2024)** \
+[**Dental Facetas**](https://www.instagram.com/dentalfacetas/) • Operações Digitais \
+`Administração de SaaS`, `Design Gráfico`, `Operações Digitais`, `Gestão Visual`. \
+<br clear="left"/>
