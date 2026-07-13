@@ -9,6 +9,7 @@
 <br/><br/>
 
 <p align="center">
+  <a href="#repositorio"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-0E4A43?style=for-the-badge&logo=github&logoColor=F7F7F7"/></a>
   <a href="https://www.linkedin.com/in/erick-monteiro-23b5a2249"><img src="https://img.shields.io/badge/LinkedIn-020A09?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjdGN0Y3IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D"/></a>
   <a href="https://gitlab.com/erickpxd"><img src="https://img.shields.io/badge/GitLab-061D1B?style=for-the-badge&logo=gitlab&logoColor=F7F7F7"/></a>
   <a href="mailto:erick.monteiroeflm@gmail.com"><img src="https://img.shields.io/badge/Gmail-0E4A43?style=for-the-badge&logo=gmail&logoColor=F7F7F7"/></a>
@@ -16,6 +17,16 @@
   <a href="https://instagram.com/_erickmont"><img src="https://img.shields.io/badge/Instagram-020A09?style=for-the-badge&logo=instagram&logoColor=F7F7F7"/></a>
 </p>
 
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickpxd/Erickpxd/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickpxd/Erickpxd/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickpxd/Erickpxd/output/github-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -35,6 +46,8 @@ Location:   Recife, Pernambuco, Brazil
 ---
 
 <h2 align="center">GitHub Stats</h2>
+
+<span id="repositorio"></span>
 
 <p align="center">
   <a href="https://github.com/erickpxd?tab=repositories">
@@ -126,3 +139,7 @@ Location:   Recife, Pernambuco, Brazil
 [**Dental Facetas**](https://www.instagram.com/dentalfacetas/) • Operações Digitais \
 `Administração de SaaS`, `Design Gráfico`, `Operações Digitais`, `Gestão Visual`. \
 <br clear="left"/>
+
+---
+
+<h2 align="center">Repositório</h2>
