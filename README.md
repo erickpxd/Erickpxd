@@ -51,23 +51,23 @@ I currently work at **Aponti**, developing applications with **Angular**, **Reac
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/erickpxd"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-0E4A43?style=for-the-badge&logo=github&logoColor=F7F7F7"/></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/erickpxd?tab=repositories">
     <img
       src="https://github-readme-stats-fast.vercel.app/api?username=erickpxd&show_icons=true&rank_icon=github&hide_border=false&bg_color=020A09&title_color=0E8F7D&text_color=F7F7F7&icon_color=FF7D03&border_color=0E4A43"
-      height="160"
+      height="180"
     />
   </a>
 
   <a href="https://github.com/erickpxd?tab=repositories">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=erickpxd&layout=compact&langs_count=8&hide_border=false&bg_color=020A09&title_color=0E8F7D&text_color=F7F7F7&icon_color=FF7D03&border_color=0E4A43"
-      height="160"
+      height="180"
     />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/erickpxd"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-0E4A43?style=for-the-badge&logo=github&logoColor=F7F7F7"/></a>
 </p>
 
 ---
