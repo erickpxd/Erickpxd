@@ -28,7 +28,7 @@
   </picture>
   <br/><br/>
   <a href="#repositorio">
-    <strong><span style="color:#0E8F7D;">Clique aqui e veja meus repositórios</span></strong>
+    <strong><span style="color:#0E8F7D;">Meus repositórios</span></strong>
   </a>
 </div>
 
