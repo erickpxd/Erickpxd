@@ -26,39 +26,31 @@
 
 ## About Me
 
-```java
-public class ErickLima {
+```bash
+erick@software-engineer:~$ whoami
 
-    String role = "Software Engineer";
+Name:       Erick Monteiro
+Role:       Software Developer @ Aponti
+Education:  Software Engineering @ Jala University
+Location:   Recife, Pernambuco, Brazil
 
-    String[] focus = {
-        "Backend Development",
-        "Cloud",
-        "DevOps",
-        "Software Architecture"
-    };
+Main Stack:
+  Backend   → Java, Spring Boot, Node.js, NestJS
+  Frontend  → Angular, React, Next.js, TypeScript
+  Data      → PostgreSQL, MongoDB, Redis
+  DevOps    → Docker, Git, Cloud Computing
 
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Next.js",
-        "AWS"
-    };
-
-    String currentState =
-        "Building scalable applications and continuously improving as an engineer.";
-
-    String philosophy =
-        "Write clean code. Solve real problems. Never stop learning.";
-}
+Current Focus:
+  → Java ecosystem
+  → Spring Boot
+  → Angular
+  → Software Architecture
+  → Cloud and DevOps
 ```
 
-I'm a Software Engineering student and Full Stack Developer passionate about building scalable applications.
+Software developer focused on the **Java ecosystem**, modern frontend development and scalable web applications.
 
-My main focus is backend development with Java and Spring Boot, while creating modern interfaces with React and Next.js.
-
-I enjoy Software Architecture, Cloud Computing, DevOps and designing systems that are easy to maintain and scale.
+I currently work at **Aponti**, developing applications with **Angular**, **React**, REST APIs and modern development practices. I am also pursuing a degree in **Software Engineering at Jala University**.
 
 ---
 
