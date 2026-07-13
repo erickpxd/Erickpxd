@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About me</h2>
 
 ```bash
 erick@software-engineer:~$ whoami
@@ -30,23 +30,9 @@ Role:       Software Developer @ Aponti
 Education:  Software Engineering @ Jala University
 Location:   Recife, Pernambuco, Brazil
 
-Main Stack:
-  Backend   → Java, Spring Boot, Node.js, NestJS
-  Frontend  → Angular, React, Next.js, TypeScript
-  Data      → PostgreSQL, MongoDB, Redis
-  DevOps    → Docker, Git, Cloud Computing
-
-Current Focus:
-  → Java ecosystem
-  → Spring Boot
-  → Angular
-  → Software Architecture
-  → Cloud and DevOps
 ```
 
-Software developer focused on the **Java ecosystem**, modern frontend development and scalable web applications.
-
-I currently work at **Aponti**, developing applications with **Angular**, **React**, REST APIs and modern development practices. I am also pursuing a degree in **Software Engineering at Jala University**.
+---
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -72,17 +58,32 @@ I currently work at **Aponti**, developing applications with **Angular**, **Reac
 
 ---
 
-## Current Focus
+## **Experiência Acadêmica**
 
-- ☁️ Cloud Computing
-- ⚙️ Software Architecture
-- 🚀 Backend Engineering
-- 🔄 DevOps
-- 📦 Distributed Systems
-- 🤖 Artificial Intelligence
+<img align="left" height="64px" width="64px" alt="Jala University" src="assets/Jala.png"/>
 
-<div align="center">
+**Engenharia de Software** \
+**Jala University** • Graduação \
+`Fundamentos da Computação`, `Engenharia de Software`, `Desenvolvimento de Sistemas`, `Inteligência Artificial`. \
+<br/>
 
-> **Build. Learn. Improve. Repeat.**
+<img align="left" height="64px" width="64px" alt="ETE Porto Digital" src="assets/Etepd.png"/>
 
-</div>
+**Técnico em Desenvolvimento de Sistemas** \
+**ETE Porto Digital** • Curso técnico \
+`Lógica de Programação`, `Desenvolvimento Web`, `Banco de Dados`, `Sistemas`. \
+<br/>
+
+<img align="left" height="64px" width="64px" alt="Aponti" src="assets/aponti.png"/>
+
+**Frontend React** \
+**Aponti** • Curso técnico \
+`React`, `Componentização`, `Consumo de APIs`, `Interfaces Web`. \
+<br/>
+
+<img align="left" height="64px" width="64px" alt="CESAR School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>
+
+**CESAR Fast Frontend** \
+**CESAR School** • Curso técnico \
+`Frontend`, `JavaScript`, `React`, `Boas práticas de desenvolvimento`. \
+<br/>
