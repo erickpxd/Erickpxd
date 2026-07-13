@@ -16,12 +16,6 @@
   <a href="https://instagram.com/_erickmont"><img src="https://img.shields.io/badge/Instagram-020A09?style=for-the-badge&logo=instagram&logoColor=F7F7F7"/></a>
 </p>
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/erickpxd"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-0E4A43?style=for-the-badge&logo=github&logoColor=F7F7F7"/></a>
-</p>
-
 </div>
 
 ---
@@ -31,7 +25,7 @@
 ```bash
 erick@software-engineer:~$ whoami
 
-Name:       Erick Monteiro
+Name:       Erick Fernando de Lima Monteiro
 Role:       Software Developer @ Aponti
 Education:  Software Engineering @ Jala University
 Location:   Recife, Pernambuco, Brazil
@@ -54,50 +48,24 @@ Software developer focused on the **Java ecosystem**, modern frontend developmen
 
 I currently work at **Aponti**, developing applications with **Angular**, **React**, REST APIs and modern development practices. I am also pursuing a degree in **Software Engineering at Jala University**.
 
----
+<h2 align="center">GitHub Stats</h2>
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-061D1B?style=for-the-badge&logo=openjdk&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0E4A43?style=for-the-badge&logo=springboot&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/React-061D1B?style=for-the-badge&logo=react&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Next.js-020A09?style=for-the-badge&logo=nextdotjs&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/TypeScript-0E4A43?style=for-the-badge&logo=typescript&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Node.js-061D1B?style=for-the-badge&logo=nodedotjs&logoColor=F7F7F7"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-020A09?style=for-the-badge&logo=postgresql&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/MongoDB-061D1B?style=for-the-badge&logo=mongodb&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Redis-0E4A43?style=for-the-badge&logo=redis&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Kafka-061D1B?style=for-the-badge&logo=apachekafka&logoColor=F7F7F7"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-0E4A43?style=for-the-badge&logo=amazonaws&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Docker-061D1B?style=for-the-badge&logo=docker&logoColor=F7F7F7"/>
-<img src="https://img.shields.io/badge/Git-020A09?style=for-the-badge&logo=git&logoColor=F7F7F7"/>
-
-</div>
-
----
-
-## GitHub Stats
+<p align="center">
+  <a href="https://github.com/erickpxd"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-0E4A43?style=for-the-badge&logo=github&logoColor=F7F7F7"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/erickpxd?tab=repositories">
     <img
       src="https://github-readme-stats-fast.vercel.app/api?username=erickpxd&show_icons=true&rank_icon=github&hide_border=false&bg_color=020A09&title_color=0E8F7D&text_color=F7F7F7&icon_color=FF7D03&border_color=0E4A43"
-      height="180"
+      height="160"
     />
   </a>
 
   <a href="https://github.com/erickpxd?tab=repositories">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=erickpxd&layout=compact&langs_count=8&hide_border=false&bg_color=020A09&title_color=0E8F7D&text_color=F7F7F7&icon_color=FF7D03&border_color=0E4A43"
-      height="180"
+      height="160"
     />
   </a>
 </p>
