@@ -58,7 +58,7 @@ Location:   Recife, Pernambuco, Brazil
 
 ---
 
-## Experiência Acadêmica
+<h2 align="center">Experiência Acadêmica</h2>
 
 <img align="left" height="64px" width="64px" alt="Jala University" src="assets/Jala.png"/>
 
@@ -90,7 +90,7 @@ Location:   Recife, Pernambuco, Brazil
 
 ---
 
-## Experiência Profissional
+<h2 align="center">Experiência Profissional</h2>
 
 [<img align="left" height="64px" width="64px" alt="Aponti" src="assets/aponti.png"/>](https://www.linkedin.com/company/apontipe/)
 
