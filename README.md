@@ -9,7 +9,6 @@
 <br/><br/>
 
 <p align="center">
-  <a href="#repositorio"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-0E4A43?style=for-the-badge&logo=github&logoColor=F7F7F7"/></a>
   <a href="https://www.linkedin.com/in/erick-monteiro-23b5a2249"><img src="https://img.shields.io/badge/LinkedIn-020A09?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjdGN0Y3IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D"/></a>
   <a href="https://gitlab.com/erickpxd"><img src="https://img.shields.io/badge/GitLab-061D1B?style=for-the-badge&logo=gitlab&logoColor=F7F7F7"/></a>
   <a href="mailto:erick.monteiroeflm@gmail.com"><img src="https://img.shields.io/badge/Gmail-0E4A43?style=for-the-badge&logo=gmail&logoColor=F7F7F7"/></a>
@@ -27,6 +26,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickpxd/Erickpxd/output/github-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickpxd/Erickpxd/output/github-snake.svg"/>
   </picture>
+  <br/><br/>
+  <a href="#repositorio">
+    <strong><span style="color:#0E8F7D;">Clique aqui e veja meus repositórios</span></strong>
+  </a>
 </div>
 
 ---
