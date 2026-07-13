@@ -47,8 +47,6 @@ Location:   Recife, Pernambuco, Brazil
 
 <h2 align="center">GitHub Stats</h2>
 
-<span id="repositorio"></span>
-
 <p align="center">
   <a href="https://github.com/erickpxd?tab=repositories">
     <img
@@ -142,4 +140,5 @@ Location:   Recife, Pernambuco, Brazil
 
 ---
 
+<span id="repositorio"></span>
 <h2 align="center">Repositório</h2>
